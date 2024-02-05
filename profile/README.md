@@ -93,7 +93,7 @@ We welcome contributions from fellow learners, developers, and enthusiasts! If y
 
 If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out to us:
 
-- Email: [dilzhanyapa@gmail.com](mailto:dilzhanyapa@gmail.com)
+- Email: [chamithdilli@gmail.com](mailto:chamithdilli@gmail.com)
 - LinkedIn: [DilZhaan](https://www.linkedin.com/in/dilzhaan/)
 
 ## Join Our Community
