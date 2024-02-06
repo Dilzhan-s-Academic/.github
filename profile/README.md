@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Dilzhan-s-Academic/.github/blob/main/profile/acd.png" width="25%"/>
+  <img src="https://github.com/Dilzhan-s-Academic/.github/blob/main/profile/acd%20logo.png" width="25%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dilzhaan/">
